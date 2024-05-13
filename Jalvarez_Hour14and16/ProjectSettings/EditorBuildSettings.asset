@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Jalvarez_Hour14.unity
+    guid: 6ae6a77d74c09ef4f87b4af5af3c335c
+  - enabled: 1
+    path: Assets/Game.unity
+    guid: bef606b26bb7467488dc172870a2f878
+  m_configObjects: {}
